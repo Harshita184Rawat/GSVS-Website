@@ -1,0 +1,1607 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Paymattic - Payments made simple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-17 07:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wp-payment-form"
+
+#: app/Views/elements/order_items_table.php:60
+msgid " )"
+msgstr ""
+
+#: app/Modules/FormComponents/CustomerEmailComponent.php:133
+msgid " does not match"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:546
+msgid " is required"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:475
+msgid " to "
+msgstr ""
+
+#: app/Views/elements/user_submissions_table.php:3
+msgid "#"
+msgstr ""
+
+#: app/Services/Integrations/GlobalNotificationManager.php:146
+msgid "(truncated)"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:441
+msgid "Abandoned"
+msgstr ""
+
+#: app/Views/elements/user_submissions_table.php:11
+msgid "Actions"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:192
+msgid "Admin Email"
+msgstr ""
+
+#: app/Modules/FormComponents/ConsentComponent.php:19
+msgid "Agreed"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:61
+#: app/Views/admin/global/global_menu.php:11
+msgid "All Forms"
+msgstr ""
+
+#: app/Models/Form.php:571
+msgid "All Input Field"
+msgstr ""
+
+#: app/Models/Form.php:572
+msgid "All Input Field With Empty Fields"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:290
+msgid "All Payment Form"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:180
+msgid ""
+"Allow FluentCRM integration conditionally based on your submission values"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:480
+msgid "AM"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:416
+msgid "Apr"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:430
+msgid "April"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:118
+msgid ""
+"Associate your FluentCRM merge tags to the appropriate WPPayForm fields by "
+"selecting the appropriate form field from the list."
+msgstr ""
+
+#: app/Modules/Builder/Render.php:420
+msgid "Aug"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:434
+msgid "August"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:158
+msgid "Author"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:170
+msgid "Billing Address"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/PaymentSuccessHandler.php:189
+msgid "Billing address from stripe has been logged in the submission data"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:466
+msgid "Burundian Franc"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:253
+#: app/Http/Controllers/SubmissionController.php:294
+msgid "Can't cancel the subscription at this moment. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:237
+msgid "Can't sync the subscription at this moment. Please try again"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:203
+msgid "Cannot connect to MySQL database."
+msgstr ""
+
+#: app/Services/GeneralSettings.php:478
+msgid "Central African Cfa Franc"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:480
+msgid "Cfp Franc"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:278
+msgid "Changing status is same as current status"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:383
+msgid "Checkout Logo"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:467
+msgid "Chilean Peso"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:478
+msgid "Click to toggle"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:505
+msgid "Cloud flare turnstile validation failed. Please try again."
+msgstr ""
+
+#: app/Services/GeneralSettings.php:471
+msgid "Comorian Franc"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:370
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:372
+msgid "Company Name"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:179
+msgid "Conditional Logics"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:46
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:131
+msgid "Configuration required!"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:33
+msgid ""
+"Connect FluentCRM with Paymattic and subscribe a contact when a form is "
+"submitted."
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:268
+msgid ""
+"Contact creation has been skipped because contact already exist in the "
+"database, Subscriber #"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:315
+msgid "Contact has been created in FluentCRM. Contact ID: "
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:149
+msgid "Contact Tags"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create and Accept Payments in minutes with Stripe, PayPal & other top "
+"gateways with built-in form builder"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:67
+msgid "Create Form"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:267
+msgid "cURL Enabled"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:272
+msgid "cURL Version"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Charge.php:69
+#: app/Modules/PaymentMethods/Stripe/Plan.php:118
+msgid "Currency is required"
+msgstr ""
+
+#: app/Models/Form.php:565
+msgid "Customer Email"
+msgstr ""
+
+#: app/Models/Form.php:564
+msgid "Customer Name"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:94
+msgid "Customers"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:258
+#: app/Views/elements/user_submissions_table.php:4
+msgid "Date"
+msgstr ""
+
+#: app/Views/receipt/payment_info.php:11
+msgid "Date:"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:424
+msgid "Dec"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:438
+msgid "December"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:227
+msgid "Display Errors"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:221
+msgid "Display name"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:468
+msgid "Djiboutian Franc"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:125
+msgid "Email Address"
+msgstr ""
+
+#: app/Modules/FormComponents/CustomerEmailComponent.php:48
+msgid "Enable Confirm Email Field"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:173
+msgid "Enable Double Option for new contacts"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:158
+msgid "Enable Dynamic Tag Selection"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:188
+msgid "Enable This feed"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:240
+msgid "Enabled"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:51
+msgid ""
+"Enter your Mailchimp API Key, if you do not have <br>Please login to your "
+"MailChimp account and go to<br>Profile -> Extras -> Api Keys"
+msgstr ""
+
+#: app/Views/admin/global/global_menu.php:14
+msgid "Entries"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:439
+msgid "Failed"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:414
+msgid "Feb"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:428
+msgid "February"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:100
+msgid "Feed Name"
+msgstr ""
+
+#: app/Modules/File/FileHandler.php:33
+msgid "File size needs to be less than "
+msgstr ""
+
+#: app/Modules/FormComponents/DemoGeneralComponent.php:30
+msgid "File Upload"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:211
+msgid "First name"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:346
+msgid "FleuntCRM Contact added Successfully on"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:256
+msgid "FluentCRM API called skipped because no valid email available"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:120
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:142
+msgid "FluentCRM Field"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:48
+msgid ""
+"FluentCRM is not configured yet! Please configure your FluentCRM api first"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:107
+msgid "FluentCRM List"
+msgstr ""
+
+#: app/Views/elements/user_submissions_table.php:5
+msgid "Form"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:121
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:143
+msgid "Form Field"
+msgstr ""
+
+#: app/Models/Form.php:447
+msgid "Form has been successfully submitted"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:741
+msgid "Form is successfully submitted"
+msgstr ""
+
+#: app/Models/Form.php:38
+msgid "Form not found"
+msgstr ""
+
+#: app/Http/Controllers/FormsController.php:67
+msgid "Form query error"
+msgstr ""
+
+#: app/Modules/FormComponents/StepFormComponent.php:49
+msgid "Form Step"
+msgstr ""
+
+#: app/Models/Form.php:747
+msgid ""
+"Form submission time schedule is not started yet. Please check back later"
+msgstr ""
+
+#: app/Http/Controllers/FormsController.php:40
+msgid "Form successfully created."
+msgstr ""
+
+#: app/Http/Controllers/FormController.php:175
+msgid "Form successfully duplicated"
+msgstr ""
+
+#: app/Http/Controllers/FormController.php:108
+msgid "Form successfully updated"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:513
+#: app/Hooks/Handlers/SubmissionHandler.php:530
+msgid "Form Validation failed"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:457
+msgid "Fri"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:448
+msgid "Friday"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:131
+msgid "Full Name"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Charge.php:54
+#: app/Modules/PaymentMethods/Stripe/Plan.php:39
+#: app/Modules/PaymentMethods/Stripe/Customer.php:42
+msgid "General Error"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:469
+msgid "Guinean Franc"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://paymattic.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://paymattic.com/"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:132
+msgid ""
+"If First Name & Last Name is not available full name will be used to get "
+"first name and last name"
+msgstr ""
+
+#: app/Views/elements/subscriptions_info.php:11
+msgid "Initial Amount"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:25 app/Services/FormPlaceholders.php:73
+msgid "Inputs"
+msgstr ""
+
+#: app/Modules/Integrations/TinyMceBlock.php:41
+msgid "Insert Form Shortcode"
+msgstr ""
+
+#: app/Modules/Integrations/TinyMceBlock.php:43
+msgid "Insert Shortcode"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:255
+msgid "Integration successfully saved"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:142
+msgid "Integration successfully updated"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:101
+#: app/Views/admin/global/global_menu.php:17
+msgid "Integrations"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Charge.php:66
+#: app/Modules/PaymentMethods/Stripe/Plan.php:115
+msgid "Invalid currency"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:60
+msgid "Invalid request. Please try again"
+msgstr ""
+
+#: app/Modules/Builder/PaymentReceipt.php:27
+msgid "Invalid submission. No receipt found"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:489
+#: app/Modules/FormComponents/BaseComponent.php:433
+msgid "is required"
+msgstr ""
+
+#: app/Views/elements/order_items_table.php:11
+msgid "Item"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:121
+msgid "Item has been marked as "
+msgstr ""
+
+#: app/Modules/Builder/PaymentReceipt.php:144
+msgid "Items Details"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:413
+msgid "Jan"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:427
+msgid "January"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:470
+msgid "Japanese Yen"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:419
+msgid "Jul"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:433
+msgid "July"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:418
+msgid "Jun"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:432
+msgid "June"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:216
+msgid "Last name"
+msgstr ""
+
+#: app/Views/elements/order_items_table.php:14
+msgid "Line Total"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:340
+msgid "Live Mode"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:346
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:348
+msgid "Live public key"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:358
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:360
+msgid "Live Secret Key"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:310
+msgid "Locale"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:52
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:128
+msgid "Mailchimp Feed"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:43
+msgid ""
+"Mailchimp is a marketing platform for small businesses. Send beautiful "
+"emails, connect your e-commerce store, advertise, and build your brand. Use "
+"Paymattic to collect customer information and automatically add it to your "
+"Mailchimp campaign list. If you don't have a Mailchimp account, you can <a "
+"href=\"http://www.mailchimp.com/\" target=\"_blank\">sign up for one here."
+"</a>"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:133
+msgid ""
+"Mailchimp is not configured yet! Please configure your mailchimp api first"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:42
+msgid "Mailchimp Settings"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:473
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:415
+msgid "Mar"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:429
+msgid "March"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:257
+msgid "Max Execution Time"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:261
+msgid "Max Input Vars"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:417 app/Modules/Builder/Render.php:431
+msgid "May"
+msgstr ""
+
+#: app/Modules/FormComponents/DemoGateways.php:102
+msgid "Mollie Payment Gateway"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:453
+msgid "Mon"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:444
+msgid "Monday"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:240
+msgid "MultiByte String"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:314
+msgid "Multisite"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:222
+msgid "MySQL Version"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:196
+msgid "Name on Card"
+msgstr ""
+
+#: app/Modules/FormComponents/ItemQuantityComponent.php:153
+#, php-format
+msgid "need to be greater or equal %d"
+msgstr ""
+
+#: app/Modules/FormComponents/ItemQuantityComponent.php:158
+#, php-format
+msgid "need to be less than or equal %d"
+msgstr ""
+
+#: app/Modules/FormComponents/StepFormComponent.php:35
+msgid "Next"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:410
+msgid "Next Month"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:250
+msgid "No"
+msgstr ""
+
+#: app/Http/Controllers/FormController.php:169
+msgid "No form found when duplicating the form"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:450
+msgid "Non Payments"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:246
+msgid "Not"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:241 app/Modules/Debug/Debug.php:268
+msgid "Not Enabled (issue)"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:104
+msgid "Note successfully added"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:423
+msgid "Nov"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:437
+msgid "November"
+msgstr ""
+
+#: app/Models/Form.php:741
+msgid "Number of entry has been exceeds, Please check back later"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:422
+msgid "Oct"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:436
+msgid "October"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:767
+msgid "Offline Payment recorded and change the status to pending"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:493
+msgid "One time Payment Successfully made via stripe. Charge ID: "
+msgstr ""
+
+#: app/Views/receipt/payment_info.php:4
+msgid "Order ID:"
+msgstr ""
+
+#: app/Models/Form.php:574
+msgid "Order Items Table"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:37 app/Services/FormPlaceholders.php:89
+msgid "Other"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:139
+msgid "Other Fields"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:436
+msgid "Paid"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:474
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:30
+#: app/Hooks/Handlers/AdminMenuHandler.php:386
+msgid "Paymattic"
+msgstr ""
+
+#. Name of the plugin
+msgid "Paymattic - Payments made simple"
+msgstr ""
+
+#: app/Views/admin/settings/index.php:13
+msgid "Paymattic Global Settings"
+msgstr ""
+
+#: app/Modules/Integrations/DashboardWidget.php:26
+msgid "Paymattic Latest Submissions"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Charge.php:78
+#: app/Modules/PaymentMethods/Stripe/Plan.php:127
+msgid "Payment Amount can not be 0"
+msgstr ""
+
+#: app/Modules/FormComponents/PaymentItemComponent.php:130
+msgid "Payment amount is required for item:"
+msgstr ""
+
+#: database/Migrations/Pages.php:12
+msgid "Payment Confirmation"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Charge.php:21
+#: app/Modules/PaymentMethods/Stripe/Customer.php:19
+msgid "Payment data validation failed"
+msgstr ""
+
+#: database/Migrations/Pages.php:23
+msgid "Payment Failed"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHandler.php:187
+msgid "Payment Failed via stripe. Status changed from Pending to Failed."
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:265
+msgid "Payment Failed! Please try again"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:449
+msgid "Payment Failed! Your card may declined"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:107
+#: app/Views/admin/global/global_menu.php:25
+msgid "Payment Gateway"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHostedHandler.php:469
+msgid "Payment has been successfully completed"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:29 app/Services/FormPlaceholders.php:81
+msgid "Payment Items"
+msgstr ""
+
+#: app/Models/Form.php:566
+msgid "Payment Method"
+msgstr ""
+
+#: app/Views/receipt/payment_info.php:26
+msgid "Payment Method:"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:337
+msgid "Payment Mode"
+msgstr ""
+
+#: app/Models/Form.php:585
+msgid "Payment Receipt"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:501
+msgid "Payment status changed from pending to paid"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:202
+msgid "Payment status successfully changed"
+msgstr ""
+
+#: app/Views/receipt/payment_info.php:32
+msgid "Payment Status:"
+msgstr ""
+
+#: app/Modules/Exterior/FramelessProcessor.php:46
+msgid "Payment Success"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:333
+#, php-format
+msgid "Payment success with 100% discount and the status updated Paid"
+msgstr ""
+
+#: app/Models/Form.php:754
+msgid "Payment target amount reached, Please check back later."
+msgstr ""
+
+#: app/Models/Form.php:589
+msgid "Payment Total"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:448
+msgid "Payments"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:393
+msgid "PayPal"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:438
+msgid "Pending"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:187
+msgid "Phone"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:214
+msgid "PHP Version"
+msgstr ""
+
+#: app/Models/Form.php:53
+msgid "Please add at least one input element"
+msgstr ""
+
+#: app/Models/Form.php:263
+msgid "Please provide form title"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:260
+msgid "Please provide Live Publishable key and Live Secret Key"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:252
+msgid "Please provide Test Publishable key and Test Secret Key"
+msgstr ""
+
+#: app/Models/GlobalSettings.php:16
+msgid "Please select a currency"
+msgstr ""
+
+#: app/Modules/Integrations/TinyMceBlock.php:42
+msgid "Please select a Form"
+msgstr ""
+
+#: app/Http/Controllers/GlobalSettingsController.php:232
+msgid "Please upload only jpg/png format files"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:487
+msgid "Please verify cloudflare turnstile first"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:486
+msgid "Please verify reCAPTCHA first"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHostedHandler.php:140
+msgid ""
+"Please wait... You are redirecting to Secure Payment page powered by Stripe"
+msgstr ""
+
+#: app/Models/Form.php:339 app/Modules/Builder/Render.php:290
+msgid "Please Wait…"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:481
+msgid "PM"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:120
+msgid "Post Author"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:126
+msgid "Post Author Email"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:102
+msgid "Post ID"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:253
+msgid "Post Max Size"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:132
+msgid "Post Meta"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:108
+msgid "Post Title"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:114
+msgid "Post URL"
+msgstr ""
+
+#: app/Views/admin/show_review.php:11
+msgid "Preview Form"
+msgstr ""
+
+#: app/Modules/FormComponents/StepFormComponent.php:28
+msgid "Previous"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:409
+msgid "Previous Month"
+msgstr ""
+
+#: app/Views/elements/order_items_table.php:13
+msgid "Price"
+msgstr ""
+
+#: app/Modules/FormComponents/PaymentItemComponent.php:134
+msgid "Pricing Details is required for item:"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:117
+msgid "Primary Fields"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:437
+msgid "Processing"
+msgstr ""
+
+#: app/Views/elements/order_items_table.php:12
+msgid "Quantity"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:252
+msgid "Query String"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:458
+msgid "Read"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:491
+msgid "reCAPTCHA validation failed. Please try again."
+msgstr ""
+
+#: app/Services/GeneralSettings.php:440
+msgid "Refunded"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:89
+#: app/Views/admin/global/global_menu.php:21
+msgid "Reports"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:475
+msgid "Rwandan Franc"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:458
+msgid "Sat"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:449
+msgid "Saturday"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:29
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:46
+msgid "Save Settings"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:428
+msgid ""
+"SCA is required for this payment. Payment status changed to pending to "
+"intended"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:436
+msgid "SCA is required for this payment. Requested SCA info from customer"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:477
+msgid "Scroll to increment"
+msgstr ""
+
+#: app/Modules/Integrations/TinyMceBlock.php:40
+msgid "Select a Form to insert"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:108
+msgid "Select FluentCRM List"
+msgstr ""
+
+#: app/Modules/FormComponents/ChoosePaymentMethodComponent.php:95
+msgid "Select Payment Method"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:150
+msgid "Select Tags"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:109
+msgid "Select the FluentCRM List you would like to add your contacts to."
+msgstr ""
+
+#: app/Http/Controllers/FormController.php:46
+msgid "Selected form successfully deleted"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:271
+msgid "Selected integration feed successfully deleted"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:215
+msgid "Selected submission successfully deleted"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:379
+msgid "Send Form input data to stripe metadata"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:421
+msgid "Sep"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:435
+msgid "September"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:232
+msgid "Server Memory Limit (PHP)"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:218
+msgid "Server Timezone"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:49
+msgid "Set FluentCRM"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:134
+msgid "Set Mailchimp API"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:160
+msgid "Set Tag"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:114
+#: app/Hooks/Handlers/AdminMenuHandler.php:115
+#: app/Views/admin/global/global_menu.php:29
+msgid "Settings"
+msgstr ""
+
+#: app/Http/Controllers/FormController.php:78
+msgid "Settings has been saved."
+msgstr ""
+
+#: app/Models/Form.php:307 app/Http/Controllers/FormController.php:31
+#: app/Http/Controllers/FormController.php:124
+#: app/Http/Controllers/GlobalSettingsController.php:81
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:284
+msgid "Settings successfully updated"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:116
+msgid "Signup Fee for"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:290
+msgid "Site Homepage"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:286
+msgid "Site Name"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:180
+msgid "Site Title"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:186
+msgid "Site URL"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:294
+msgid "Site Url"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:167
+msgid "Skip if contact already exist in FluentCRM"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:488
+msgid "Something is wrong when submitting the form"
+msgstr ""
+
+#: app/Http/Controllers/GlobalSettingsController.php:242
+msgid "Something is wrong when uploading the file"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHostedHandler.php:460
+msgid "Sorry! no associate submission found"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:24
+msgid "Sorry! No integration failed found with: "
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHandler.php:242
+msgid ""
+"Sorry! there has an error when creating the subscription plan. Please try "
+"again"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:61
+msgid ""
+"Sorry, no Integration found. Please make sure that latest version of "
+"Paymattic pro installed"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:149
+msgid "Sorry, No Submission found"
+msgstr ""
+
+#: app/Hooks/Handlers/DependencyHandler.php:79
+msgid "Sorry, no submission receipt found, Please check your receipt URL"
+msgstr ""
+
+#: app/Services/AccessControl.php:307
+msgid ""
+"Sorry, You can not update permissions. Only administrators can update "
+"permissions"
+msgstr ""
+
+#: app/Services/AccessControl.php:55
+msgid "Sorry, You do not have permission to do this action: "
+msgstr ""
+
+#: app/Services/GeneralSettings.php:472
+msgid "South Korean Won"
+msgstr ""
+
+#: app/Views/elements/subscriptions_info.php:13
+#: app/Views/elements/user_submissions_table.php:8
+msgid "Status"
+msgstr ""
+
+#: app/Modules/FormComponents/StepFormComponent.php:55
+msgid "Step 1"
+msgstr ""
+
+#: app/Modules/FormComponents/StepFormComponent.php:60
+msgid "Step 2"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHandler.php:80
+msgid ""
+"Stripe error when creating subscription plan for you. Please contact site "
+"admin"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHandler.php:78
+msgid ""
+"Stripe error when creating subscription plan for you. Your card might be "
+"charged for atleast one subscription. Please contact site admin to resolve "
+"the issue"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:376
+msgid "Stripe Meta Data"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/PaymentSuccessHandler.php:143
+msgid "Stripe One time payment has marked as paid."
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHostedHandler.php:528
+msgid "Stripe recurring payments synced from upstream"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHostedHandler.php:563
+msgid "Stripe recurring subscription Cancelled"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/PaymentSuccessHandler.php:83
+#: app/Modules/PaymentMethods/Stripe/StripeHandler.php:137
+msgid "Stripe recurring subscription successfully initiated"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Charge.php:73
+#: app/Modules/PaymentMethods/Stripe/Plan.php:122
+msgid "Stripe Token is required"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Customer.php:68
+msgid "Stripe token/payment_method is required"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:443
+msgid ""
+"Strong Customer Authentication is required. Please complete 2 factor "
+"authentication."
+msgstr ""
+
+#: app/Views/elements/order_items_table.php:67
+msgid "Sub Total"
+msgstr ""
+
+#: app/Views/elements/order_items_table.php:51
+msgid "Sub-Total"
+msgstr ""
+
+#: app/Views/receipt/customer_details.php:2
+msgid "Submission Details"
+msgstr ""
+
+#: app/Models/Form.php:563
+msgid "Submission Hash ID"
+msgstr ""
+
+#: app/Models/Form.php:562
+msgid "Submission ID"
+msgstr ""
+
+#: app/Views/receipt/payment_info.php:6
+msgid "Submission ID:"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:21 app/Services/FormPlaceholders.php:77
+msgid "Submission Info"
+msgstr ""
+
+#: app/Models/Form.php:338 app/Modules/Builder/Render.php:294
+msgid "Submit"
+msgstr ""
+
+#: app/Views/elements/subscriptions_info.php:10
+msgid "Subscription"
+msgstr ""
+
+#: app/Modules/Builder/PaymentReceipt.php:185
+msgid "Subscription Details"
+msgstr ""
+
+#: app/Models/Form.php:581
+msgid "Subscription Details Table"
+msgstr ""
+
+#: app/Models/Form.php:582
+msgid "Subscription ID "
+msgstr ""
+
+#: app/Modules/FormComponents/DemoProducts.php:34
+msgid "Subscription Payment"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeHandler.php:152
+msgid "Subscription status changed to : "
+msgstr ""
+
+#: app/Services/GeneralSettings.php:449
+msgid "Subscriptions"
+msgstr ""
+
+#: app/Services/AccessControl.php:304
+msgid "Successfully updated the role(s)."
+msgstr ""
+
+#: app/Modules/Builder/Render.php:452
+msgid "Sun"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:443
+msgid "Sunday"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:130
+msgid "Support & Debug"
+msgstr ""
+
+#: app/Modules/FormComponents/DemoProducts.php:29
+msgid "Tabular Product Items"
+msgstr ""
+
+#: app/Modules/FormComponents/ItemQuantityComponent.php:125
+msgid "Target Product is required for item:"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:339
+msgid "Test Mode"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:352
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:354
+msgid "Test public key"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:364
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:366
+msgid "Test Secret Key"
+msgstr ""
+
+#: app/Models/Form.php:473
+msgid "Thanks for your submission. Here are the details of your submission:"
+msgstr ""
+
+#: app/Http/Controllers/SubmissionController.php:162
+msgid "The submission have the same status"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:150
+msgid "Theme Name"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:162
+msgid "Theme URI"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:154
+msgid "Theme Version"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/ApiRequest.php:126
+#: app/Modules/PaymentMethods/Stripe/ApiRequest.php:150
+msgid "There was a problem connecting to the Stripe API endpoint."
+msgstr ""
+
+#: app/Modules/Builder/Render.php:456
+msgid "Thu"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:447
+msgid "Thursday"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:264
+msgid "Time"
+msgstr ""
+
+#: app/Views/elements/subscriptions_info.php:12
+msgid "Times Billed"
+msgstr ""
+
+#: app/Views/elements/order_items_table.php:78
+#: app/Views/elements/user_submissions_table.php:7
+msgid "Total"
+msgstr ""
+
+#: app/Modules/Integrations/DashboardWidget.php:69
+msgid "Total Paid & Active Payment Received"
+msgstr ""
+
+#: app/Views/receipt/payment_info.php:20
+msgid "Total:"
+msgstr ""
+
+#: app/Models/Form.php:575
+msgid "Transaction ID"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:454
+msgid "Tue"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:445
+msgid "Tuesday"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:457
+msgid "Unread"
+msgstr ""
+
+#: app/Views/elements/subscriptions_info.php:29
+msgid "Until cancelled"
+msgstr ""
+
+#: app/Views/admin/global/global_menu.php:44
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:236
+msgid "Upload Max Filesize"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:236
+msgid "User Description"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:156
+msgid "User Display Name"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:162 app/Services/FormPlaceholders.php:226
+msgid "User Email"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:144
+msgid "User First Name"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:138 app/Services/FormPlaceholders.php:206
+msgid "User ID"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:270
+msgid "User IP Address"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:150
+msgid "User Last Name"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:174
+msgid "User Meta"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:241
+msgid "User Role"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:168 app/Services/FormPlaceholders.php:231
+msgid "User URL"
+msgstr ""
+
+#: app/Modules/FormComponents/CustomerEmailComponent.php:125
+msgid "Valid email address is required for field:"
+msgstr ""
+
+#: app/Models/Form.php:51
+msgid "Validation Error, Please try again"
+msgstr ""
+
+#: app/Models/Form.php:76
+msgid "Validation failed when saving the form"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:165
+msgid "Validation failed, because selected payment method could not be found"
+msgstr ""
+
+#: app/Hooks/Handlers/SubmissionHandler.php:178
+msgid "Validation failed, Please fill up card details"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:490
+msgid "Validation failed, please fill-up required fields"
+msgstr ""
+
+#: app/Modules/FormComponents/HiddenInputComponent.php:60
+msgid "Value is required for item:"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:477
+msgid "Vanuatu Vatu"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeInlineHandler.php:201
+msgid "Verifying your card details. Please wait..."
+msgstr ""
+
+#: app/Services/GeneralSettings.php:476
+msgid "Vietnamese Dong"
+msgstr ""
+
+#. %s: The [simpay_errors] shortcode
+#: database/Migrations/Pages.php:25
+msgid ""
+"We're sorry, but your transaction failed to process. Please try again or "
+"contact site support."
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:210
+msgid "Web Server"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:388
+msgid "Webhook URL"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:455
+msgid "Wed"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:446
+msgid "Wednesday"
+msgstr ""
+
+#: app/Services/GeneralSettings.php:479
+msgid "West African Cfa Franc"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:476
+msgid "Wk"
+msgstr ""
+
+#: app/Services/FormPlaceholders.php:33 app/Services/FormPlaceholders.php:85
+msgid "WordPress"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:302
+msgid "WP Debug"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:306
+msgid "WP Debug log"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:318
+msgid "WP Memory Limit"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:375
+msgid "WP Remote GET"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:406
+msgid "WP Remote POST"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:298
+msgid "WP Version"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr ""
+
+#: app/Modules/Builder/Render.php:483
+msgid "Year"
+msgstr ""
+
+#: app/Modules/Debug/Debug.php:228 app/Modules/Debug/Debug.php:241
+#: app/Modules/Debug/Debug.php:246 app/Modules/Debug/Debug.php:250
+#: app/Modules/Debug/Debug.php:268
+msgid "Yes"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/Stripe.php:378
+msgid ""
+"You can choose what will show after a successful payment<br /> or if there "
+"is any fails."
+msgstr ""
+
+#: app/Models/Form.php:758
+msgid "You need to login to submit this form"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:37
+msgid "Your API Key is not valid"
+msgstr ""
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:33
+msgid "Your API Key is valid"
+msgstr ""
+
+#: app/Modules/PaymentMethods/Stripe/StripeCardElementComponent.php:81
+msgid "Your Card Info (Powered By Stripe)"
+msgstr ""
+
+#: app/Services/Integrations/FluentCrm/Bootstrap.php:102
+msgid "Your Feed Name"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:120
+msgid "Your mailchimp api key has been verified and successfully set"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:45
+msgid "Your Mailchimp API Key is not valid"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:44
+msgid "Your Mailchimp API Key is valid"
+msgstr ""
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:91
+msgid "Your settings has been updated and disconnected"
+msgstr ""
